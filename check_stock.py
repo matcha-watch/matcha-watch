@@ -519,6 +519,34 @@ MIN_INTERVAL = {
     "sazentea.com": 120,
 }
 
+# Marukyu restock only during their own office hours: every restock recorded
+# so far landed Mon-Fri between 09:00 and 17:30 Tokyo time. The window below
+# is deliberately wider than observed. Outside it we still look, just rarely,
+# so a sell-out is still dated and an unusual restock is not missed entirely.
+BUSINESS_HOURS = {
+    "marukyu-koyamaen.co.jp": {
+        "days": {0, 1, 2, 3, 4},        # Monday..Friday, Tokyo time
+        "from_hour": 8,
+        "to_hour": 19,                  # exclusive
+        "outside_interval_min": 180,
+    },
+}
+
+
+def shop_interval(host: str, now: int):
+    """Minutes to wait between visits to this shop, and why."""
+    base = MIN_INTERVAL.get(host)
+    bh = BUSINESS_HOURS.get(host)
+    if not bh:
+        return base, ""
+    tk = time.gmtime(now + 9 * 3600)
+    inside = (tk.tm_wday in bh["days"]
+              and bh["from_hour"] <= tk.tm_hour < bh["to_hour"])
+    if inside:
+        return base, ""
+    return (max(base or 0, bh["outside_interval_min"]),
+            f" [outside Tokyo office hours, now {time.strftime('%a %H:%M', tk)} there]")
+
 
 def host_of(url: str) -> str:
     return re.sub(r"^https?://(www\.)?([^/]+).*", r"\2", url)
@@ -665,7 +693,7 @@ def main() -> int:
         if i:
             time.sleep(3)   # be a polite visitor, not a hammering bot
         host = host_of(p["url"])
-        wait_min = MIN_INTERVAL.get(host)
+        wait_min, why = shop_interval(host, now)
         since = ((now - last_seen_prev[host]) // 60
                  if host in last_seen_prev else None)
         if not CANARY_MODE and wait_min and since is not None and since < wait_min:
@@ -674,7 +702,7 @@ def main() -> int:
             if old_state.get(p["buy_url"]):
                 new_state[p["buy_url"]] = old_state[p["buy_url"]]
             print(f"[info] Skipping (checked {since} min ago, limit "
-                  f"{wait_min} min): {p['name']}")
+                  f"{wait_min} min{why}): {p['name']}")
             continue
         if host in blocked_hosts:
             if old_state.get(p["buy_url"]):
