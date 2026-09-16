@@ -1,3 +1,30 @@
+run #760 | Paris 16 Sep 11:04 | Tokyo 16 Sep 18:04 | trigger: workflow_dispatch | utc 2026-09-16 09:04
+
+[info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
+[info]   HTTP 200, 119668 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Wako (和光) from Marukyu Koyamaen English shop
+[info]   HTTP 200, 123690 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
+[info]   HTTP 200, 120994 bytes
+[info]   Out of stock.
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
+[info] Skipping (checked 61 min ago, limit 120 min): Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
+[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
+[info]   HTTP 200, 6481 bytes
+[price]   30g: ¥4,860 (sold out)
+[info]   Out of stock.
+[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
+[info]   HTTP 200, 6579 bytes
+[price]   30g: ¥2,484 (sold out)
+[info]   Out of stock.
+[info] state saved (2 items tracked)
+
 run #759 | Paris 16 Sep 10:03 | Tokyo 16 Sep 17:03 | trigger: workflow_dispatch | utc 2026-09-16 08:03
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
@@ -797,76 +824,3 @@ run #732 | Paris 15 Sep 11:57 | Tokyo 15 Sep 18:57 | trigger: workflow_dispatch 
 [price]   30g: ¥2,484 (sold out)
 [info]   Out of stock.
 [info] state saved (8 items tracked)
-
-run #731 | Paris 15 Sep 11:02 | Tokyo 15 Sep 18:02 | trigger: workflow_dispatch | utc 2026-09-15 09:02
-
-[info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 119544 bytes
-[info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1191040C1, ¥2,520), 100g (SKU 1191100C1, ¥5,650), 100g (SKU 1F43100C6, ¥5,340)
-[info] Checking: Matcha Wako (和光) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 123600 bytes
-[info]   Out of stock.
-[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 120862 bytes
-[info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1151040C1, ¥5,720), 100g (SKU 1151100C1, ¥13,650), 100g (SKU 1151100C6, ¥13,340)
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
-[info] Skipping (checked 54 min ago, limit 120 min): Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
-[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
-[info]   HTTP 200, 6481 bytes
-[price]   30g: ¥4,860 (sold out)
-[info]   Out of stock.
-[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
-[info]   HTTP 200, 6579 bytes
-[price]   30g: ¥2,484 (sold out)
-[info]   Out of stock.
-[info] state saved (8 items tracked)
-
-run #730 | Paris 15 Sep 10:07 | Tokyo 15 Sep 17:07 | trigger: workflow_dispatch | utc 2026-09-15 08:07
-
-[info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 119530 bytes
-[info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1191040C1, ¥2,520), 100g (SKU 1191100C1, ¥5,650), 100g (SKU 1F43100C6, ¥5,340)
-[info] Checking: Matcha Wako (和光) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 123725 bytes
-[info]   Out of stock.
-[info]   Sold out again after 1h08m.
-[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 120851 bytes
-[info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1151040C1, ¥5,720), 100g (SKU 1151100C1, ¥13,650), 100g (SKU 1151100C6, ¥13,340)
-[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
-[info]   HTTP 200, 148352 bytes
-[info]   In stock, but already reported earlier. Buyable at Sazen: $31.32 / 20 g CAN, $60.48 / 40 g CAN | in stock: $31.32 / 20 g Branded CAN, $60.48 / 40 g Branded CAN
-[info] Checking: Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
-[info]   (reusing the page already fetched this run)
-[info]   HTTP 200, 148352 bytes
-[info]   Out of stock.
-[info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
-[info]   (reusing the page already fetched this run)
-[info]   HTTP 200, 148352 bytes
-[info]   Out of stock.
-[info] Checking: Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
-[info]   HTTP 200, 139958 bytes
-[info]   In stock, but already reported earlier. Buyable at Sazen: $28.08 / 30 g CAN
-[info] Checking: Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
-[info]   (reusing the page already fetched this run)
-[info]   HTTP 200, 139958 bytes
-[info]   Out of stock.
-[info] Checking: Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
-[info]   (reusing the page already fetched this run)
-[info]   HTTP 200, 139958 bytes
-[info]   Out of stock.
-[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
-[info]   HTTP 200, 6481 bytes
-[price]   30g: ¥4,860 (sold out)
-[info]   Out of stock.
-[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
-[info]   HTTP 200, 6579 bytes
-[price]   30g: ¥2,484 (sold out)
-[info]   Out of stock.
-[info] state saved (8 items tracked)
-[info] Quiet notice: Matcha Wako (和光) sold out at Marukyu Koyamaen
-[info] ntfy push response: 200
