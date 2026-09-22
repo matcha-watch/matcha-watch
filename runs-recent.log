@@ -1,8 +1,8 @@
-run #939 | Paris 22 Sep 12:00 | Tokyo 22 Sep 19:00 | trigger: schedule | utc 2026-09-22 10:00
+run #940 | Paris 22 Sep 12:04 | Tokyo 22 Sep 19:04 | trigger: workflow_dispatch | utc 2026-09-22 10:04
 
-[info] Skipping (checked 60 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:00 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
-[info] Skipping (checked 60 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:00 there]): Matcha Wako (和光) from Marukyu Koyamaen English shop
-[info] Skipping (checked 60 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:00 there]): Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
+[info] Skipping (checked 64 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:04 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
+[info] Skipping (checked 64 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:04 there]): Matcha Wako (和光) from Marukyu Koyamaen English shop
+[info] Skipping (checked 64 min ago, limit 180 min [outside Tokyo office hours, now Tue 19:04 there]): Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
 [info]   HTTP 200, 145545 bytes
 [info]   Out of stock.
