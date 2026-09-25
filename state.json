@@ -6,12 +6,27 @@
       },
       "https://horiishichimeien.com/en/products/matcha-ujimukashi": {
         "40895585419401": 1790226217
+      },
+      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": {
+        "1151040C1": 1790322337,
+        "1151100C1": 1790322337,
+        "1151100C6": 1790322337
+      },
+      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1161020c1": {
+        "1161040C1": 1790322337,
+        "1161100C1": 1790322337,
+        "1161100C6": 1790322337
+      },
+      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1191040c1": {
+        "1191040C1": 1790322337,
+        "1191100C1": 1790322337,
+        "1F43100C6": 1790322337
       }
     },
     "last_check": {
-      "horiishichimeien.com": 1790319733,
-      "marukyu-koyamaen.co.jp": 1790319733,
-      "sazentea.com": 1790312697
+      "horiishichimeien.com": 1790322337,
+      "marukyu-koyamaen.co.jp": 1790322337,
+      "sazentea.com": 1790322337
     }
   },
   "https://horiishichimeien.com/en/products/matcha-todounomukashi": [
@@ -19,5 +34,20 @@
   ],
   "https://horiishichimeien.com/en/products/matcha-ujimukashi": [
     "40895585419401"
+  ],
+  "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": [
+    "1151040C1",
+    "1151100C1",
+    "1151100C6"
+  ],
+  "https://www.marukyu-koyamaen.co.jp/english/shop/products/1161020c1": [
+    "1161040C1",
+    "1161100C1",
+    "1161100C6"
+  ],
+  "https://www.marukyu-koyamaen.co.jp/english/shop/products/1191040c1": [
+    "1191040C1",
+    "1191100C1",
+    "1F43100C6"
   ]
 }
