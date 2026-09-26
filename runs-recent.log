@@ -1,3 +1,27 @@
+run #1057 | Paris 26 Sep 11:59 | Tokyo 26 Sep 18:59 | trigger: workflow_dispatch | utc 2026-09-26 09:59
+
+[info] Skipping (checked 111 min ago, limit 180 min [outside Tokyo office hours, now Sat 18:59 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
+[info] Skipping (checked 111 min ago, limit 180 min [outside Tokyo office hours, now Sat 18:59 there]): Matcha Wako (和光) from Marukyu Koyamaen English shop
+[info] Skipping (checked 111 min ago, limit 180 min [outside Tokyo office hours, now Sat 18:59 there]): Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
+[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
+[info]   interstitial seen, waiting 8s for one retry
+[info]   HTTP 200, 12028 bytes
+[warn]   Anti-bot screen (1 run(s) in a row).
+[info] Skipping (shop already answered with an anti-bot screen this run): Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
+[info] Skipping (shop already answered with an anti-bot screen this run): Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
+[info] Skipping (shop already answered with an anti-bot screen this run): Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
+[info] Skipping (shop already answered with an anti-bot screen this run): Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
+[info] Skipping (shop already answered with an anti-bot screen this run): Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
+[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
+[info]   HTTP 200, 6486 bytes
+[price]   30g: ¥4,860 (IN STOCK)
+[info]   In stock, but already reported earlier. Available sizes: 30g, ¥4,860
+[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
+[info]   HTTP 200, 6584 bytes
+[price]   30g: ¥2,484 (IN STOCK)
+[info]   In stock, but already reported earlier. Available sizes: 30g, ¥2,484
+[info] state saved (3 items tracked)
+
 run #1056 | Paris 26 Sep 11:08 | Tokyo 26 Sep 18:08 | trigger: workflow_dispatch | utc 2026-09-26 09:08
 
 [info] Skipping (checked 60 min ago, limit 180 min [outside Tokyo office hours, now Sat 18:08 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
