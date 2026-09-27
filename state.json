@@ -1,22 +1,16 @@
 {
   "__meta__": {
     "in_stock_since": {
-      "https://horiishichimeien.com/en/products/matcha-todounomukashi": {
-        "40895585222793": 1790226217
-      },
       "https://horiishichimeien.com/en/products/matcha-ujimukashi": {
         "40895585419401": 1790226217
       }
     },
     "last_check": {
-      "horiishichimeien.com": 1790467439,
-      "marukyu-koyamaen.co.jp": 1790456871,
+      "horiishichimeien.com": 1790470710,
+      "marukyu-koyamaen.co.jp": 1790470710,
       "sazentea.com": 1790467439
     }
   },
-  "https://horiishichimeien.com/en/products/matcha-todounomukashi": [
-    "40895585222793"
-  ],
   "https://horiishichimeien.com/en/products/matcha-ujimukashi": [
     "40895585419401"
   ]
