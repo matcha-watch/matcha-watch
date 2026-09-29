@@ -89,3 +89,6 @@ tokyo_time,tokyo_day,tokyo_hour,paris_time,shop,product,event,detail
 2026-09-26 01:07,Sat,01,2026-09-25 18:07,Marukyu Koyamaen,Matcha Kinrin (金輪),sold_out,was available 1m
 2026-09-27 09:58,Sun,09,2026-09-27 02:58,Horii Shichimeien,Matcha Todou no Mukashi (都昔),sold_out,was available 67h54m
 2026-09-29 03:58,Tue,03,2026-09-28 20:58,Horii Shichimeien,Matcha Uji Mukashi (宇治昔),sold_out,was available 109h55m
+2026-09-29 10:02,Tue,10,2026-09-29 03:02,Marukyu Koyamaen,Matcha Isuzu (五十鈴),in_stock,Available sizes: 40g (SKU 1191040C1; ¥2;520); 100g (SKU 1191100C1; ¥5;650); 100g (SKU 1F43100C6; ¥5;340)
+2026-09-29 10:02,Tue,10,2026-09-29 03:02,Marukyu Koyamaen,Matcha Wako (和光),in_stock,Available sizes: 40g (SKU 1161040C1; ¥4;520); 100g (SKU 1161100C1; ¥10;650); 100g (SKU 1161100C6; ¥10;340)
+2026-09-29 10:02,Tue,10,2026-09-29 03:02,Marukyu Koyamaen,Matcha Kinrin (金輪),in_stock,Available sizes: 40g (SKU 1151040C1; ¥5;720); 100g (SKU 1151100C1; ¥13;650); 100g (SKU 1151100C6; ¥13;340)
