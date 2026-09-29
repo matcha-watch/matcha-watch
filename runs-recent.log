@@ -1,15 +1,14 @@
-run #1134 | Paris 29 Sep 04:01 | Tokyo 29 Sep 11:01 | trigger: schedule | utc 2026-09-29 02:01
+run #1135 | Paris 29 Sep 04:09 | Tokyo 29 Sep 11:09 | trigger: workflow_dispatch | utc 2026-09-29 02:09
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
 [info]   HTTP 200, 119654 bytes
 [info]   Out of stock.
-[info]   Sold out again after 58m.
+[info]   Sold out again after 1h06m.
 [info] Checking: Matcha Wako (和光) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 123675 bytes
-[info]   Out of stock.
-[info]   Sold out again after 58m.
+[info]   HTTP 200, 123502 bytes
+[info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1161040C1, ¥4,520), 100g (SKU 1161100C1, ¥10,650), 100g (SKU 1161100C6, ¥10,340)
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 120874 bytes
+[info]   HTTP 200, 120872 bytes
 [info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1151040C1, ¥5,720), 100g (SKU 1151100C1, ¥13,650), 100g (SKU 1151100C6, ¥13,340)
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
 [info]   HTTP 200, 144323 bytes
@@ -41,10 +40,8 @@ run #1134 | Paris 29 Sep 04:01 | Tokyo 29 Sep 11:01 | trigger: schedule | utc 20
 [info]   HTTP 200, 6586 bytes
 [price]   30g: ¥2,484 (sold out)
 [info]   Out of stock.
-[info] state saved (3 items tracked)
+[info] state saved (6 items tracked)
 [info] Quiet notice: Matcha Isuzu (五十鈴) sold out at Marukyu Koyamaen
-[info] ntfy push response: 200
-[info] Quiet notice: Matcha Wako (和光) sold out at Marukyu Koyamaen
 [info] ntfy push response: 200
 
 run #1133 | Paris 29 Sep 03:02 | Tokyo 29 Sep 10:02 | trigger: workflow_dispatch | utc 2026-09-29 01:02
