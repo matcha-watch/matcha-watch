@@ -3,20 +3,10 @@
     "in_stock_since": {
       "https://horiishichimeien.com/en/products/matcha-ujimukashi": {
         "40895585419401": 1790769440
-      },
-      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": {
-        "1151040C1": 1790773557,
-        "1151100C1": 1790773557,
-        "1151100C6": 1790773557
-      },
-      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1161020c1": {
-        "1161040C1": 1790773557,
-        "1161100C1": 1790773557,
-        "1161100C6": 1790773557
       }
     },
     "last_check": {
-      "horiishichimeien.com": 1790773557,
+      "horiishichimeien.com": 1790775640,
       "marukyu-koyamaen.co.jp": 1790773557,
       "sazentea.com": 1790773557
     }
