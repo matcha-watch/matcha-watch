@@ -1,4 +1,4 @@
-run #1314 | Paris 05 Oct 11:05 | Tokyo 05 Oct 18:05 | trigger: workflow_dispatch | utc 2026-10-05 09:05
+run #1315 | Paris 05 Oct 11:15 | Tokyo 05 Oct 18:15 | trigger: schedule | utc 2026-10-05 09:15
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
 [info]   HTTP 200, 119868 bytes
@@ -7,7 +7,7 @@ run #1314 | Paris 05 Oct 11:05 | Tokyo 05 Oct 18:05 | trigger: workflow_dispatch
 [info]   HTTP 200, 123789 bytes
 [info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1161040C1, ¥4,520), 100g (SKU 1161100C1, ¥10,650), 100g (SKU 1161100C6, ¥10,340)
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 121106 bytes
+[info]   HTTP 200, 121092 bytes
 [info]   In stock, but already reported earlier. Available sizes: 40g (SKU 1151040C1, ¥5,720), 100g (SKU 1151100C1, ¥13,650), 100g (SKU 1151100C6, ¥13,340)
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
 [info]   HTTP 200, 143051 bytes
