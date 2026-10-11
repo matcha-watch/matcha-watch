@@ -1,4 +1,4 @@
-run #1498 | Paris 12 Oct 01:01 | Tokyo 12 Oct 08:01 | trigger: schedule | utc 2026-10-11 23:01
+run #1499 | Paris 12 Oct 01:06 | Tokyo 12 Oct 08:06 | trigger: workflow_dispatch | utc 2026-10-11 23:06
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
 [info]   HTTP 200, 120326 bytes
@@ -7,7 +7,7 @@ run #1498 | Paris 12 Oct 01:01 | Tokyo 12 Oct 08:01 | trigger: schedule | utc 20
 [info]   HTTP 200, 124349 bytes
 [info]   Out of stock.
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 121726 bytes
+[info]   HTTP 200, 121656 bytes
 [info]   Out of stock.
 [info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
 [info]   HTTP 200, 41025 bytes
