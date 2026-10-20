@@ -10,16 +10,11 @@
         "1161040C1": 1792458470,
         "1161100C1": 1792458470,
         "1161100C6": 1792458470
-      },
-      "https://www.marukyu-koyamaen.co.jp/english/shop/products/1191040c1": {
-        "1191040C1": 1792458470,
-        "1191100C1": 1792458470,
-        "1F43100C6": 1792458470
       }
     },
     "last_check": {
-      "horiishichimeien.com": 1792462143,
-      "marukyu-koyamaen.co.jp": 1792462143,
+      "horiishichimeien.com": 1792465477,
+      "marukyu-koyamaen.co.jp": 1792465477,
       "sazentea.com": 1792458470
     }
   },
@@ -32,11 +27,6 @@
     "1161040C1",
     "1161100C1",
     "1161100C6"
-  ],
-  "https://www.marukyu-koyamaen.co.jp/english/shop/products/1191040c1": [
-    "1191040C1",
-    "1191100C1",
-    "1F43100C6"
   ],
   "https://www.sazentea.com/en/products/p155-matcha-kinrin.html": [
     "155"
