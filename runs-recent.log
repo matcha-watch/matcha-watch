@@ -1,7 +1,7 @@
-run #2028 | Paris 30 Oct 03:03 | Tokyo 30 Oct 11:03 | trigger: schedule | utc 2026-10-30 02:03
+run #2029 | Paris 30 Oct 03:15 | Tokyo 30 Oct 11:15 | trigger: workflow_dispatch | utc 2026-10-30 02:15
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
-[info]   HTTP 200, 120384 bytes
+[info]   HTTP 200, 120381 bytes
 [ALERT]   IN STOCK (new). Available sizes: 40g (SKU 1191040C1, ¥2,520), 100g (SKU 1191100C1, ¥5,650), 100g (SKU 1F43100C6, ¥5,340)
 [info] Checking: Matcha Wako (和光) from Marukyu Koyamaen English shop
 [info]   HTTP 200, 124331 bytes
