@@ -1,13 +1,9 @@
 {
   "__meta__": {
-    "in_stock_since": {
-      "https://www.sazentea.com/en/products/p155-matcha-kinrin.html": {
-        "155": 1793574262
-      }
-    },
+    "in_stock_since": {},
     "last_check": {
-      "horiishichimeien.com": 1793574262,
-      "marukyu-koyamaen.co.jp": 1793574262,
+      "horiishichimeien.com": 1793577703,
+      "marukyu-koyamaen.co.jp": 1793577703,
       "sazentea.com": 1793574262
     }
   },
