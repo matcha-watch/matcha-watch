@@ -1,10 +1,20 @@
 {
   "__meta__": {
-    "in_stock_since": {},
+    "in_stock_since": {
+      "https://www.sazentea.com/en/products/p822-matcha-shikibu-no-mukashi.html": {
+        "822": 1794326540
+      },
+      "https://www.sazentea.com/en/products/p823-matcha-ogurayama.html": {
+        "823": 1794326540
+      },
+      "https://www.sazentea.com/en/products/p825-matcha-samidori.html": {
+        "825": 1794326540
+      }
+    },
     "last_check": {
-      "horiishichimeien.com": 1794323059,
+      "horiishichimeien.com": 1794326540,
       "marukyu-koyamaen.co.jp": 1794316045,
-      "sazentea.com": 1794316045
+      "sazentea.com": 1794326540
     }
   },
   "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": [
