@@ -1,10 +1,14 @@
 {
   "__meta__": {
-    "in_stock_since": {},
+    "in_stock_since": {
+      "https://www.sazentea.com/en/products/p823-matcha-ogurayama.html": {
+        "823": 1794618226
+      }
+    },
     "last_check": {
-      "horiishichimeien.com": 1794614705,
+      "horiishichimeien.com": 1794618226,
       "marukyu-koyamaen.co.jp": 1794608066,
-      "sazentea.com": 1794608066
+      "sazentea.com": 1794618226
     }
   },
   "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": [
