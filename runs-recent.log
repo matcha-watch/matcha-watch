@@ -1,3 +1,40 @@
+run #2677 | Paris 22 Nov 17:05 | Tokyo 23 Nov 01:05 | trigger: workflow_dispatch | utc 2026-11-22 16:05
+
+[info] Skipping (checked 63 min ago, limit 180 min [outside Tokyo office hours, now Mon 01:05 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
+[info] Skipping (checked 63 min ago, limit 180 min [outside Tokyo office hours, now Mon 01:05 there]): Matcha Wako (和光) from Marukyu Koyamaen English shop
+[info] Skipping (checked 63 min ago, limit 180 min [outside Tokyo office hours, now Mon 01:05 there]): Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
+[info] Checking: Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
+[info]   HTTP 200, 156552 bytes
+[info]   In stock, but already reported earlier. Buyable at Sazen: $31.32 / 20 g CAN, $60.48 / 40 g CAN | in stock: $31.32 / 20 g Branded CAN, $60.48 / 40 g Branded CAN
+[info] Checking: Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
+[info]   (reusing the page already fetched this run)
+[info]   HTTP 200, 156552 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
+[info]   (reusing the page already fetched this run)
+[info]   HTTP 200, 156552 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
+[info]   HTTP 200, 145059 bytes
+[info]   In stock, but already reported earlier. Buyable at Sazen: $28.08 / 30 g CAN
+[info] Checking: Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
+[info]   (reusing the page already fetched this run)
+[info]   HTTP 200, 145059 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
+[info]   (reusing the page already fetched this run)
+[info]   HTTP 200, 145059 bytes
+[info]   Out of stock.
+[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
+[info]   HTTP 200, 6520 bytes
+[price]   30g: ¥4,860 (sold out)
+[info]   Out of stock.
+[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
+[info]   HTTP 200, 6586 bytes
+[price]   30g: ¥2,484 (sold out)
+[info]   Out of stock.
+[info] state saved (11 items tracked)
+
 run #2676 | Paris 22 Nov 16:01 | Tokyo 23 Nov 00:01 | trigger: workflow_dispatch | utc 2026-11-22 15:01
 
 [info] Checking: Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
@@ -741,27 +778,6 @@ run #2650 | Paris 21 Nov 18:05 | Tokyo 22 Nov 02:05 | trigger: workflow_dispatch
 [info]   (reusing the page already fetched this run)
 [info]   HTTP 200, 145059 bytes
 [info]   Out of stock.
-[info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
-[info]   HTTP 200, 6520 bytes
-[price]   30g: ¥4,860 (sold out)
-[info]   Out of stock.
-[info] Checking: Matcha Uji Mukashi (宇治昔) from Horii Shichimeien
-[info]   HTTP 200, 6586 bytes
-[price]   30g: ¥2,484 (sold out)
-[info]   Out of stock.
-[info] state saved (11 items tracked)
-
-run #2649 | Paris 21 Nov 16:58 | Tokyo 22 Nov 00:58 | trigger: workflow_dispatch | utc 2026-11-21 15:58
-
-[info] Skipping (checked 171 min ago, limit 180 min [outside Tokyo office hours, now Sun 00:58 there]): Matcha Isuzu (五十鈴) from Marukyu Koyamaen English shop
-[info] Skipping (checked 171 min ago, limit 180 min [outside Tokyo office hours, now Sun 00:58 there]): Matcha Wako (和光) from Marukyu Koyamaen English shop
-[info] Skipping (checked 171 min ago, limit 180 min [outside Tokyo office hours, now Sun 00:58 there]): Matcha Kinrin (金輪) from Marukyu Koyamaen English shop
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Kinrin (金輪) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Wako (和光) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Isuzu (五十鈴) from Marukyu Koyamaen, at Sazen Tea
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Ogurayama (小倉山) from Yamamasa Koyamaen, at Sazen Tea
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Shikibu no Mukashi (式部の昔) from Yamamasa Koyamaen, at Sazen Tea
-[info] Skipping (checked 56 min ago, limit 120 min): Matcha Samidori (さみどり) from Yamamasa Koyamaen, at Sazen Tea
 [info] Checking: Matcha Todou no Mukashi (都昔) from Horii Shichimeien
 [info]   HTTP 200, 6520 bytes
 [price]   30g: ¥4,860 (sold out)
