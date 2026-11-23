@@ -15,12 +15,18 @@
         "1191040C1": 1795384792,
         "1191100C1": 1795384792,
         "1F43100C6": 1795384792
+      },
+      "https://www.sazentea.com/en/products/p155-matcha-kinrin.html": {
+        "155": 1795399509
+      },
+      "https://www.sazentea.com/en/products/p823-matcha-ogurayama.html": {
+        "823": 1795399509
       }
     },
     "last_check": {
-      "horiishichimeien.com": 1795395693,
-      "marukyu-koyamaen.co.jp": 1795395693,
-      "sazentea.com": 1795388721
+      "horiishichimeien.com": 1795399509,
+      "marukyu-koyamaen.co.jp": 1795399509,
+      "sazentea.com": 1795399509
     }
   },
   "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": [
@@ -39,7 +45,7 @@
     "1F43100C6"
   ],
   "https://www.sazentea.com/en/products/p155-matcha-kinrin.html": [
-    "__blocked__1"
+    "155"
   ],
   "https://www.sazentea.com/en/products/p823-matcha-ogurayama.html": [
     "823"
