@@ -1,10 +1,17 @@
 {
   "__meta__": {
-    "in_stock_since": {},
+    "in_stock_since": {
+      "https://www.sazentea.com/en/products/p155-matcha-kinrin.html": {
+        "155": 1795619122
+      },
+      "https://www.sazentea.com/en/products/p823-matcha-ogurayama.html": {
+        "823": 1795619122
+      }
+    },
     "last_check": {
-      "horiishichimeien.com": 1795615607,
+      "horiishichimeien.com": 1795619122,
       "marukyu-koyamaen.co.jp": 1795612021,
-      "sazentea.com": 1795608532
+      "sazentea.com": 1795619122
     }
   },
   "https://www.marukyu-koyamaen.co.jp/english/shop/products/1151020c1": [
